@@ -1,4 +1,4 @@
-obj-m += count.o
+obj-m += led.o
 
 KERNDIR := /lib/modules/$(shell uname -r)/build
 
