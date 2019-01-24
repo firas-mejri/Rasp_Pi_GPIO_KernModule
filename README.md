@@ -1,4 +1,4 @@
-#Led Kernel Module
+#Led_Kernel_Module
 
 This is a kernel module for a character device that controls leds through Raspberry Pi GPIOs
 
